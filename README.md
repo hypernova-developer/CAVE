@@ -12,3 +12,4 @@ CAVE is a high-performance, lightweight cryptographic vault and data obfuscation
 Run the executable followed by the string block you want to cryptographically process into the vault:
 ```bash
 ./cave "CONFIDENTIAL_DATA_VECTOR"
+```
